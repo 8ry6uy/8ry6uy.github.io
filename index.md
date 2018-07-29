@@ -67,7 +67,7 @@
 
     J2EE Web Services
 
-# ...hmm #
+# ... #
 
 ```markdown
 let skills = ['Java', 'JavaScript', 'Swift'];
