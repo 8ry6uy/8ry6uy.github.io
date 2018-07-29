@@ -1,3 +1,5 @@
+###Experienced Senior Software Engineer with a demonstrated history of working in the hospital & health care industry. Skilled in Java, Javascrpt, Node.js, SQL, J2EE. Strong information technology professional with a Bachelor of Science - BS focused in Computer Software Engineering from Weber State University.
+
 ```markdown
 let skills = ['Java', 'JavaScript', 'Swift'];
 let knowledge = ['Software Development', 'Agile Methodoloigies', 'Debugging', 'Object Oriented Design',
