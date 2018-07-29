@@ -9,3 +9,36 @@ let BryanVanderWerff = [...skills, ...knowledge, ...technologies];
 
 console.log('Bryan VanderWerff is :', BryanVanderWerff);
 ```
+
+Bryan VanderWerff is : 
+[…]
+0: "Java"
+1: "JavaScript"
+2: "Swift"
+3: "Software Development"
+4: "Agile Methodoloigies"
+5: "Debugging"
+6: "Object Oriented Design"
+7: "Programming"
+8: "Software Design"
+9: "Web Services"
+10: "Scrum"
+11: "Angular"
+12: "React.js"
+13: "Node.js"
+14: "Vue.js"
+15: "HTML"
+16: "J2EE"
+17: "SQL"
+18: "XML"
+19: "Objective-C"
+20: "C#"
+21: "C++"
+22: "C"
+23: "Eclipse"
+24: "Linux"
+25: "Native script"
+26: "Redux"
+27: "RESTful WebServices"
+length: 28
+__proto__: Array []
