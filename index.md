@@ -9,7 +9,7 @@
     Swift
     
 ####
-##### Knowledge:
+#### Knowledge:
 
     Software Development
 
@@ -26,8 +26,8 @@
     Object Oriented Design
 
     Scrum
-#####
-##### Technologies:
+####
+#### Technologies:
 
 
     Angular
@@ -67,7 +67,9 @@
     J2ME
 
     J2EE Web Services
-#####
+####
+
+# ...hmm #
 
 ```markdown
 let skills = ['Java', 'JavaScript', 'Swift'];
